@@ -6,7 +6,20 @@ var dynamicContent = {
 
 			images : [
 				"spring_1.jpg",
-				"spring_2.jpg"
+				"spring_2.jpg",
+				"spring_3.jpg",
+				"spring_4.jpg",
+				"spring_5.jpg",
+				"spring_6.jpg"
+			],
+
+			imageDescription : [
+				"This is a bunch of butterflies",
+				"This is a ducky! or a chick. whatever.",
+				"This is a sleeping puppy in a basket!",
+				"Here are some cherry blossoms.",
+				"This is an image with a bunch of colourful tulips.",
+				"Look at the blue sky and yellow flowers."
 			]
 		},
 
@@ -17,8 +30,22 @@ var dynamicContent = {
 
 			images : [
 				"summer_1.jpg",
-				"summer_2.jpg"
+				"summer_2.jpg",
+				"summer_3.jpg",
+				"summer_4.jpg",
+				"summer_5.jpg",
+				"summer_6.jpg"
+			],
+
+			imageDescription : [
+				"This is a bunch of beach chairs",
+				"This is an adorable puppy!",
+				"Here is another puppy but with sunglasses on the beach!",
+				"This is an ariel view of a beach.",
+				"Here are some bright yellow flip-flops.",
+				"These donut tubes are very popular once again; here is a pink one in a pool."
 			]
+
 		},
 
 		autumn : {
@@ -28,7 +55,20 @@ var dynamicContent = {
 
 			images : [
 				"autumn_1.jpg",
-				"autumn_2.jpg"
+				"autumn_2.jpg",
+				"autumn_3.jpg",
+				"autumn_4.jpg",
+				"autumn_5.jpg",
+				"autumn_6.jpg"
+			],
+
+			imageDescription : [
+				"This is a forest filled with fall colours",
+				"This is a center piece for Thanksgiving.",
+				"Here is a park bench with all the leaves that have already fallen.",
+				"A pumpkin patch is a very popular place for people to go to during the Autumn season.",
+				"Hello Autumn!",
+				"A shot from below of the leaves changing colours."
 			]
 		},
 
@@ -39,7 +79,20 @@ var dynamicContent = {
 
 			images : [
 				"winter_1.jpg",
-				"winter_2.jpg"
+				"winter_2.jpg",
+				"winter_3.jpg",
+				"winter_4.jpg",
+				"winter_5.jpg",
+				"winter_6.jpg"
+			],
+
+			imageDescription : [
+				"This is a sunset during the wintertime.",
+				"This is a snowman!",
+				"Winter driving is a nightmare, especially in Calgary.",
+				"Many people go for walks through the park and leave their footprints in the snow.",
+				"Going to the Sunshine Resort is very popular for skiing and snowboarding.",
+				"Here are some people who took a break from skiing and snowboarding on the top of a mountain."
 			]
 		}
 	};

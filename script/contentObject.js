@@ -41,7 +41,7 @@ var dynamicContent = {
 				"This is a bunch of beach chairs",
 				"This is an adorable puppy!",
 				"Here is another puppy but with sunglasses on the beach!",
-				"This is an ariel view of a beach.",
+				"This is an aerial view of a beach.",
 				"Here are some bright yellow flip-flops.",
 				"These donut tubes are very popular once again; here is a pink one in a pool."
 			]
